@@ -16,3 +16,9 @@ C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\ob
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.dll
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\Entidades\obj\Debug\Entidades.pdb

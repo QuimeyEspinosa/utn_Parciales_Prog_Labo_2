@@ -69,3 +69,28 @@ C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\KwikEMart\ob
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.csproj.CopyComplete
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\KwikEMart\obj\Debug\Kwik E Mart.exe
 C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\KwikEMart\obj\Debug\Kwik E Mart.pdb
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\bin\Debug\Kwik E Mart.exe.config
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\bin\Debug\Kwik E Mart.exe
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\bin\Debug\Kwik E Mart.pdb
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\bin\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\bin\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmAltaCliente.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmAltaProducto.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmCantidadAComprar.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmClientes.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmDescripcionVenta.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmEmpleados.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmLogin.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmModificarProducto.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmNuevaVenta.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.Frm_Principal.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmProductos.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmVentas.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.FrmVentasEmpleado.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.Properties.Resources.resources
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.csproj.GenerateResource.cache
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\KwikEMart.csproj.CopyComplete
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\Kwik E Mart.exe
+C:\Users\Quimey\Desktop\utn_Parciales_Prog_Labo_2\Espinosa.Quimey\KwikEMart\obj\Debug\Kwik E Mart.pdb

@@ -34,6 +34,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmClientes));
             this.dgv_Clientes = new System.Windows.Forms.DataGridView();
             this.lbl_ClientesRegistrados = new System.Windows.Forms.Label();
+            this.btn_AgregarCliente = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Clientes)).BeginInit();
             this.SuspendLayout();
             // 
@@ -87,7 +88,7 @@
             this.dgv_Clientes.RowHeadersVisible = false;
             this.dgv_Clientes.RowTemplate.ReadOnly = true;
             this.dgv_Clientes.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgv_Clientes.Size = new System.Drawing.Size(913, 456);
+            this.dgv_Clientes.Size = new System.Drawing.Size(913, 423);
             this.dgv_Clientes.TabIndex = 4;
             // 
             // lbl_ClientesRegistrados
@@ -100,12 +101,27 @@
             this.lbl_ClientesRegistrados.TabIndex = 27;
             this.lbl_ClientesRegistrados.Text = "Clientes Registrados";
             // 
+            // btn_AgregarCliente
+            // 
+            this.btn_AgregarCliente.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(154)))), ((int)(((byte)(113)))));
+            this.btn_AgregarCliente.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_AgregarCliente.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_AgregarCliente.ForeColor = System.Drawing.Color.White;
+            this.btn_AgregarCliente.Location = new System.Drawing.Point(388, 474);
+            this.btn_AgregarCliente.Name = "btn_AgregarCliente";
+            this.btn_AgregarCliente.Size = new System.Drawing.Size(157, 27);
+            this.btn_AgregarCliente.TabIndex = 28;
+            this.btn_AgregarCliente.Text = "Agregar Cliente";
+            this.btn_AgregarCliente.UseVisualStyleBackColor = false;
+            this.btn_AgregarCliente.Click += new System.EventHandler(this.btn_AgregarCliente_Click);
+            // 
             // FrmClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(46)))));
             this.ClientSize = new System.Drawing.Size(937, 513);
+            this.Controls.Add(this.btn_AgregarCliente);
             this.Controls.Add(this.lbl_ClientesRegistrados);
             this.Controls.Add(this.dgv_Clientes);
             this.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -128,5 +144,6 @@
 
         private System.Windows.Forms.DataGridView dgv_Clientes;
         private System.Windows.Forms.Label lbl_ClientesRegistrados;
+        private System.Windows.Forms.Button btn_AgregarCliente;
     }
 }
