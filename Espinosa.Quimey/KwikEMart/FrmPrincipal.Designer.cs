@@ -121,7 +121,7 @@
             this.btn_NuevaVenta.Name = "btn_NuevaVenta";
             this.btn_NuevaVenta.Size = new System.Drawing.Size(152, 32);
             this.btn_NuevaVenta.TabIndex = 6;
-            this.btn_NuevaVenta.Text = "Nueva Compra";
+            this.btn_NuevaVenta.Text = "Nueva Venta";
             this.btn_NuevaVenta.UseVisualStyleBackColor = false;
             this.btn_NuevaVenta.Click += new System.EventHandler(this.btn_NuevaVenta_Click);
             // 
