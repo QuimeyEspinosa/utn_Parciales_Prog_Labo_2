@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Entidades;
+
+namespace KwikEMart
+{
+    public partial class FrmClientes : Form
+    {
+        public FrmClientes()
+        {
+            InitializeComponent();
+        }
+
+        private void FrmClientes_Load(object sender, EventArgs e)
+        {
+            RefrescarDgvClientes(Comercio.MisClientes);
+        }
+
+
+        private void RefrescarDgvClientes(List<Cliente> clientes)
+        {
+            dgv_Clientes.DataSource = null;
+            dgv_Clientes.DataSource = clientes;
+            dgv_Clientes.Columns[1].Visible = false;
+        }
+    }
+}

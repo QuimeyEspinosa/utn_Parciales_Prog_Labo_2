@@ -1,0 +1,18 @@
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Quimey\source\repos\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\UTN\Segundo cuatrimestre\Laboratorio-Programacion II 2D\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quimey\Desktop\Proyectos_Parcial\Intento 3\Espinosa.Quimey\Entidades\obj\Debug\Entidades.pdb
