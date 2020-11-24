@@ -1,0 +1,8 @@
+Cliente: Lucas
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Córdoba 1883
+N° Pedido: 11
+-----------------------------------------
+

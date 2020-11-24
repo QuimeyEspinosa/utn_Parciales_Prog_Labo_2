@@ -1,0 +1,9 @@
+Cliente: Santiago
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 124
+Total: $750
+N° Pedido: 26
+-----------------------------------------
+

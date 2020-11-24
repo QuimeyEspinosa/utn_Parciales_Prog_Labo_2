@@ -1,0 +1,8 @@
+Cliente: Gonzalo
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 1298
+Total: $375
+N° Pedido: 486
+-----------------------------------------
+

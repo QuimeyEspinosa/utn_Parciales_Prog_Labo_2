@@ -1,0 +1,8 @@
+Cliente: Abril
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Libertador 1108
+Total: $250
+N° Pedido: 383
+-----------------------------------------
+

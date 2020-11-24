@@ -1,0 +1,8 @@
+Cliente: Sergio
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 1264
+Total: $450
+N° Pedido: 435
+-----------------------------------------
+

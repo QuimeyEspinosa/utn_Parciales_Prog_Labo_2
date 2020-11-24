@@ -1,0 +1,4 @@
+Incorrect syntax near '@Direccion'.
+Ocurrió el 19-11-2020
+a las 19h-36m-23s-74ms
+

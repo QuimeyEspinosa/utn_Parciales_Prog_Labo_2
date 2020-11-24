@@ -1,0 +1,9 @@
+Cliente: Juliana
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Libertador 2071
+Total: $700
+N° Pedido: 639
+-----------------------------------------
+

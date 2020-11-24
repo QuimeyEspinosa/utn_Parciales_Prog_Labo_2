@@ -1,0 +1,9 @@
+Cliente: Quimey
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Corrientes 2759
+Total: $500
+N° Pedido: 117
+-----------------------------------------
+

@@ -1,0 +1,11 @@
+Cliente: Quimey
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 3101
+Total: $1325
+N° Pedido: 687
+-----------------------------------------
+

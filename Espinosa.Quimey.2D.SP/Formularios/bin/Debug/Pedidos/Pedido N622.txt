@@ -1,0 +1,8 @@
+Cliente: Sergio
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Libertador 1532
+Total: $375
+N° Pedido: 622
+-----------------------------------------
+

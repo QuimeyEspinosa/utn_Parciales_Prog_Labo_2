@@ -1,0 +1,10 @@
+Cliente: Gonzalo
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 3020
+Total: $1000
+N° Pedido: 278
+-----------------------------------------
+

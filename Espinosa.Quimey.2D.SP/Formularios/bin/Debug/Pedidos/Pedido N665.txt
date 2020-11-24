@@ -1,0 +1,11 @@
+Cliente: Gonzalo
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 790
+Total: $1500
+N° Pedido: 665
+-----------------------------------------
+

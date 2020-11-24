@@ -1,0 +1,9 @@
+Cliente: Lucas
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Libertador 1203
+Total: $750
+N° Pedido: 854
+-----------------------------------------
+

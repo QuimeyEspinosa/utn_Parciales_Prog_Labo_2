@@ -1,0 +1,9 @@
+Cliente: Abril
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 316
+Total: $750
+N° Pedido: 265
+-----------------------------------------
+

@@ -1,0 +1,9 @@
+Cliente: Alejo
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Libertador 1405
+Total: $700
+N° Pedido: 929
+-----------------------------------------
+

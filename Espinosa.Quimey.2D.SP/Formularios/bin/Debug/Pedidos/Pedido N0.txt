@@ -1,0 +1,12 @@
+Cliente: Lucas
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: 9 de Julio 3122
+Total: $1750
+N° Pedido: 0
+-----------------------------------------
+

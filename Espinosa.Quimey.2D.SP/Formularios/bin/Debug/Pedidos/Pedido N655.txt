@@ -1,0 +1,8 @@
+Cliente: Pepe
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Córdoba 804
+Total: $450
+N° Pedido: 655
+-----------------------------------------
+

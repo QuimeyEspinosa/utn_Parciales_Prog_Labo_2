@@ -1,0 +1,8 @@
+Cliente: Joaquin
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Libertador 3169
+Total: $450
+N° Pedido: 566
+-----------------------------------------
+

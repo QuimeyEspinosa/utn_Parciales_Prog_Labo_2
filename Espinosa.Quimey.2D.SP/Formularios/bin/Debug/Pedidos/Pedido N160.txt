@@ -1,0 +1,11 @@
+Cliente: Juliana
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 1593
+Total: $1600
+N° Pedido: 160
+-----------------------------------------
+

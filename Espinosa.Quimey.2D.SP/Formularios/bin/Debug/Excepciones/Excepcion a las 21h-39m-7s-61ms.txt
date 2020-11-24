@@ -1,0 +1,4 @@
+Invalid column name 'MAX'.
+Ocurrió el 19-11-2020
+a las 21h-39m-7s-61ms
+

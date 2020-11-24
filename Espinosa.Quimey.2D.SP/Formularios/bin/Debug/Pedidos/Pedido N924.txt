@@ -1,0 +1,10 @@
+Cliente: Federico
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 2886
+Total: $750
+N° Pedido: 924
+-----------------------------------------
+

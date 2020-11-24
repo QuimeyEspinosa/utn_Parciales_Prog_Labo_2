@@ -1,0 +1,8 @@
+Cliente: Elias
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 1114
+Total: $450
+N° Pedido: 514
+-----------------------------------------
+

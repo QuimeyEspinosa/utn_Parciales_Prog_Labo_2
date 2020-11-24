@@ -1,0 +1,11 @@
+Cliente: Julieta
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 1298
+Total: $1650
+N° Pedido: 726
+-----------------------------------------
+

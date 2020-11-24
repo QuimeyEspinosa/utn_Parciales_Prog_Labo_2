@@ -1,0 +1,11 @@
+Cliente: Ezequiel
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 234
+Total: $1200
+N° Pedido: 695
+-----------------------------------------
+

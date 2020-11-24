@@ -1,0 +1,8 @@
+Cliente: Pepe
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: 9 de Julio 3156
+Total: $375
+N° Pedido: 253
+-----------------------------------------
+

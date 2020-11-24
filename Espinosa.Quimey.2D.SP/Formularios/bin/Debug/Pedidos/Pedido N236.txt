@@ -1,0 +1,8 @@
+Cliente: Julieta
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 3396
+Total: $375
+N° Pedido: 236
+-----------------------------------------
+

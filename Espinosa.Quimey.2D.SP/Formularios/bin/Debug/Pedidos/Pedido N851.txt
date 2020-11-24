@@ -1,0 +1,10 @@
+Cliente: Elias
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 1077
+Total: $1000
+N° Pedido: 851
+-----------------------------------------
+

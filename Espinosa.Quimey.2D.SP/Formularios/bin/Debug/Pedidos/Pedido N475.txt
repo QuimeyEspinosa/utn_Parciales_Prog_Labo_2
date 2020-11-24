@@ -1,0 +1,9 @@
+Cliente: Nehuen
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 3046
+Total: $625
+N° Pedido: 475
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Ezequiel
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Alvear 3318
+Total: $250
+N° Pedido: 316
+-----------------------------------------
+

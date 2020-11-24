@@ -1,0 +1,11 @@
+Cliente: Julieta
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 2698
+Total: $1250
+N° Pedido: 300
+-----------------------------------------
+

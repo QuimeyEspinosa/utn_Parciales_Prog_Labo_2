@@ -1,0 +1,8 @@
+Cliente: Juliana
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 2027
+Total: $375
+N° Pedido: 195
+-----------------------------------------
+

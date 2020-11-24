@@ -1,0 +1,8 @@
+Cliente: Lucas
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 773
+Total: $250
+N° Pedido: 680
+-----------------------------------------
+

@@ -1,0 +1,9 @@
+Cliente: Daniela
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 1965
+Total: $825
+N° Pedido: 229
+-----------------------------------------
+

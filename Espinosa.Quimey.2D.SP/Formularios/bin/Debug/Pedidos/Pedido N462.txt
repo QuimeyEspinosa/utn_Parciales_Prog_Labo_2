@@ -1,0 +1,8 @@
+Cliente: Daniela
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Córdoba 779
+Total: $450
+N° Pedido: 462
+-----------------------------------------
+

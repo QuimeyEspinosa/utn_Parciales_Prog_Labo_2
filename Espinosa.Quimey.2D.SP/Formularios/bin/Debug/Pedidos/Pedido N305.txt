@@ -1,0 +1,12 @@
+Cliente: Abril
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 3065
+Total: $1500
+N° Pedido: 305
+-----------------------------------------
+

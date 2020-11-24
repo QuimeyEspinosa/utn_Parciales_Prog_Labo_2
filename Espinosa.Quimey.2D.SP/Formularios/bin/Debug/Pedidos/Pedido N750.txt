@@ -1,0 +1,9 @@
+Cliente: Ana
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 1901
+Total: $700
+N° Pedido: 750
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Julieta
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Peatonal Florida 871
+Total: $450
+N° Pedido: 425
+-----------------------------------------
+

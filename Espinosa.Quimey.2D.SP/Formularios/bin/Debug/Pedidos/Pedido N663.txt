@@ -1,0 +1,9 @@
+Cliente: Sergio
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 1995
+Total: $825
+N° Pedido: 663
+-----------------------------------------
+

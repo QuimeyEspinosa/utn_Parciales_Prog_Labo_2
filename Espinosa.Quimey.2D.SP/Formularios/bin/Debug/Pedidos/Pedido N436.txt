@@ -1,0 +1,8 @@
+Cliente: Abril
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Libertador 2867
+Total: $450
+N° Pedido: 436
+-----------------------------------------
+

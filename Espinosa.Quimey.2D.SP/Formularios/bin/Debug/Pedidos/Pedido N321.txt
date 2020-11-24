@@ -1,0 +1,9 @@
+Cliente: Nehuen
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 976
+Total: $750
+N° Pedido: 321
+-----------------------------------------
+

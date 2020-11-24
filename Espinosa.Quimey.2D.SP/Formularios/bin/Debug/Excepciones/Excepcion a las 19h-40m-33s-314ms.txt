@@ -1,0 +1,6 @@
+String or binary data would be truncated in table 'Parcial.dbo.Pedidos', column 'Descripcion'. Truncated value: '       ID:2 | Hamburguesa Doble $375
+       ID:3 '.
+The statement has been terminated.
+Ocurrió el 19-11-2020
+a las 19h-40m-33s-314ms
+

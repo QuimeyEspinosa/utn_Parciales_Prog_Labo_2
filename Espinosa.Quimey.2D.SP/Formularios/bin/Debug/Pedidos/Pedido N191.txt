@@ -1,0 +1,10 @@
+Cliente: Quimey
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 2566
+Total: $950
+N° Pedido: 191
+-----------------------------------------
+

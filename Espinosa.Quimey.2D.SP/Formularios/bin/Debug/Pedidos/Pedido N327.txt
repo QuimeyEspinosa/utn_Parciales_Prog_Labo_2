@@ -1,0 +1,10 @@
+Cliente: Ezequiel
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 1354
+Total: $1125
+N° Pedido: 327
+-----------------------------------------
+

@@ -1,0 +1,9 @@
+Cliente: Lucas
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Libertador 2176
+Total: $625
+N° Pedido: 346
+-----------------------------------------
+

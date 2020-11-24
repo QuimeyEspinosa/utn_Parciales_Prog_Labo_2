@@ -1,0 +1,8 @@
+Cliente: Pepe
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Alvear 3417
+Total: $250
+N° Pedido: 467
+-----------------------------------------
+

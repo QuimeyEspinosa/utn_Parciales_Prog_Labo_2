@@ -1,0 +1,9 @@
+Cliente: Elias
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 1707
+Total: $900
+N° Pedido: 721
+-----------------------------------------
+

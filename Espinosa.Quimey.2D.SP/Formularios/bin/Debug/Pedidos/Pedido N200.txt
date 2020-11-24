@@ -1,0 +1,8 @@
+Cliente: Joaquin
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 2194
+Total: $450
+N° Pedido: 200
+-----------------------------------------
+

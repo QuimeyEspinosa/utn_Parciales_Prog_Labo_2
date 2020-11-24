@@ -1,0 +1,8 @@
+Cliente: Nehuen
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 3286
+Total: $250
+N° Pedido: 912
+-----------------------------------------
+

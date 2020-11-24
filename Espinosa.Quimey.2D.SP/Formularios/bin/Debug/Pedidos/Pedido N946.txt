@@ -1,0 +1,8 @@
+Cliente: Daniela
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 1483
+Total: $375
+N° Pedido: 946
+-----------------------------------------
+

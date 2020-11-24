@@ -1,0 +1,8 @@
+Cliente: Ezequiel
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 3049
+Total: $250
+N° Pedido: 925
+-----------------------------------------
+

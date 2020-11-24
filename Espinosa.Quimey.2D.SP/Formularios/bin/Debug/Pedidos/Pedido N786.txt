@@ -1,0 +1,12 @@
+Cliente: Daniela
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 2937
+Total: $1950
+N° Pedido: 786
+-----------------------------------------
+

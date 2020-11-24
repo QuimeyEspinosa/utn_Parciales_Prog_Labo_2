@@ -1,0 +1,8 @@
+Cliente: Alejo
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Alvear 2622
+Total: $250
+N° Pedido: 813
+-----------------------------------------
+

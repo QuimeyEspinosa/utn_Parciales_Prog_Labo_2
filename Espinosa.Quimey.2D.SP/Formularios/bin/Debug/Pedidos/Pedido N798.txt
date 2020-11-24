@@ -1,0 +1,12 @@
+Cliente: Julieta
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 2579
+Total: $1450
+N° Pedido: 798
+-----------------------------------------
+

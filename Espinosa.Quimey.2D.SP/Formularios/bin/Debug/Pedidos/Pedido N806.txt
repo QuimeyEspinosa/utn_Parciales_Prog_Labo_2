@@ -1,0 +1,10 @@
+Cliente: Abril
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 435
+Total: $875
+N° Pedido: 806
+-----------------------------------------
+

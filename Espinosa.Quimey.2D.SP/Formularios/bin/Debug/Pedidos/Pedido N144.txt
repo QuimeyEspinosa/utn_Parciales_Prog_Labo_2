@@ -1,0 +1,8 @@
+Cliente: Ezequiel
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 1625
+Total: $450
+N° Pedido: 144
+-----------------------------------------
+

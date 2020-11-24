@@ -1,0 +1,10 @@
+Cliente: Joaquin
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Libertador 1907
+Total: $1200
+N° Pedido: 583
+-----------------------------------------
+

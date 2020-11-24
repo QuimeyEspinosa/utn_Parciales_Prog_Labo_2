@@ -1,0 +1,8 @@
+Cliente: Federico
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 2648
+Total: $375
+N° Pedido: 376
+-----------------------------------------
+

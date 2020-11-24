@@ -1,0 +1,8 @@
+Cliente: Lucas
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 2851
+Total: $375
+N° Pedido: 891
+-----------------------------------------
+

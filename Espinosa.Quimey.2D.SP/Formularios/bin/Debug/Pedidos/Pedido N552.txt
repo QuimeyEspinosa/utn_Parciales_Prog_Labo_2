@@ -1,0 +1,8 @@
+Cliente: Julieta
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 1917
+Total: $450
+N° Pedido: 552
+-----------------------------------------
+

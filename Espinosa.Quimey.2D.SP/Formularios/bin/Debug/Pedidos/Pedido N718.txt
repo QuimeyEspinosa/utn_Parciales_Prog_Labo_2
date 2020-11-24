@@ -1,0 +1,11 @@
+Cliente: Alejo
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: 9 de Julio 3053
+Total: $1250
+N° Pedido: 718
+-----------------------------------------
+

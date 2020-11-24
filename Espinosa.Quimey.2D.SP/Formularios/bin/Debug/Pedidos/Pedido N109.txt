@@ -1,0 +1,8 @@
+Cliente: Quimey
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 243
+Total: $450
+N° Pedido: 109
+-----------------------------------------
+

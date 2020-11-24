@@ -1,0 +1,8 @@
+Cliente: Elias
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 1223
+Total: $375
+N° Pedido: 97
+-----------------------------------------
+

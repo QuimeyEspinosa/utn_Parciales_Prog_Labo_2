@@ -1,0 +1,9 @@
+Cliente: Juliana
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Libertador 1756
+N° Pedido: 19
+-----------------------------------------
+

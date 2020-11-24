@@ -1,0 +1,9 @@
+Cliente: Sergio
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Libertador 3141
+Total: $500
+N° Pedido: 793
+-----------------------------------------
+

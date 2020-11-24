@@ -1,0 +1,11 @@
+Cliente: Ana
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: 9 de Julio 1575
+Total: $1525
+N° Pedido: 580
+-----------------------------------------
+

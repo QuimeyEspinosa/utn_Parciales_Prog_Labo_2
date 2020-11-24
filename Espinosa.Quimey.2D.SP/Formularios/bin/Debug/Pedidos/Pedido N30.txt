@@ -1,0 +1,7 @@
+Cliente: Alejo
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 859
+N° Pedido: 30
+-----------------------------------------
+

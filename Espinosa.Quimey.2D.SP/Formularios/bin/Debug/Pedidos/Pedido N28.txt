@@ -1,0 +1,9 @@
+Cliente: Ludmila
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 773
+Total: $750
+N° Pedido: 28
+-----------------------------------------
+

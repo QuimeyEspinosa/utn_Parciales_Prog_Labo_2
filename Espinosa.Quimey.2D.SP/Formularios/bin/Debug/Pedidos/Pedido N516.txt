@@ -1,0 +1,10 @@
+Cliente: Santiago
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 2585
+Total: $1125
+N° Pedido: 516
+-----------------------------------------
+

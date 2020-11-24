@@ -1,0 +1,10 @@
+Cliente: Joaquin
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 2336
+Total: $1150
+N° Pedido: 682
+-----------------------------------------
+

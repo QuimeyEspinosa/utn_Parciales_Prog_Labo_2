@@ -1,0 +1,12 @@
+Cliente: Ezequiel
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 2120
+Total: $1650
+N° Pedido: 149
+-----------------------------------------
+

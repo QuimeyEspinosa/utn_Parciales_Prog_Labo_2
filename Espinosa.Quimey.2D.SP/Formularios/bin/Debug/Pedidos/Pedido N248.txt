@@ -1,0 +1,10 @@
+Cliente: Pepe
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 1126
+Total: $1275
+N° Pedido: 248
+-----------------------------------------
+

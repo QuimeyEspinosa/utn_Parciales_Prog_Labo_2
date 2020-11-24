@@ -1,0 +1,8 @@
+Cliente: Pepe
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 2001
+Total: $375
+N° Pedido: 292
+-----------------------------------------
+

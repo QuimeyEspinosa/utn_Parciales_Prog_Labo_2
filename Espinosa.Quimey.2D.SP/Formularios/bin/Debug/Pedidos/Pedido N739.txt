@@ -1,0 +1,8 @@
+Cliente: Abril
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 3154
+Total: $375
+N° Pedido: 739
+-----------------------------------------
+

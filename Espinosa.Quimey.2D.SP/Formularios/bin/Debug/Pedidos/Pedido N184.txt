@@ -1,0 +1,12 @@
+Cliente: Lucas
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Peatonal Florida 1873
+Total: $1625
+N° Pedido: 184
+-----------------------------------------
+

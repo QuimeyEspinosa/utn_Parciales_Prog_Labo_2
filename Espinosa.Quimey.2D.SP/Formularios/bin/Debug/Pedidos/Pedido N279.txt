@@ -1,0 +1,11 @@
+Cliente: Quimey
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Peatonal Florida 1725
+Total: $1600
+N° Pedido: 279
+-----------------------------------------
+

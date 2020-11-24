@@ -1,0 +1,8 @@
+Cliente: Lucas
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 1678
+Total: $450
+N° Pedido: 653
+-----------------------------------------
+

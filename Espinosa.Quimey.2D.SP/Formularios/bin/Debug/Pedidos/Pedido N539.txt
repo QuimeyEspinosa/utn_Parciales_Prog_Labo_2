@@ -1,0 +1,12 @@
+Cliente: Ezequiel
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 3090
+Total: $2175
+N° Pedido: 539
+-----------------------------------------
+

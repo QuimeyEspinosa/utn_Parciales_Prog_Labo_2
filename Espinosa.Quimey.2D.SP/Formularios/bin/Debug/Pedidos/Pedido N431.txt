@@ -1,0 +1,9 @@
+Cliente: Alejo
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Alvear 2116
+Total: $825
+N° Pedido: 431
+-----------------------------------------
+

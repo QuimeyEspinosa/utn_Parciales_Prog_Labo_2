@@ -1,0 +1,10 @@
+Cliente: Juliana
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 1369
+Total: $1125
+N° Pedido: 936
+-----------------------------------------
+

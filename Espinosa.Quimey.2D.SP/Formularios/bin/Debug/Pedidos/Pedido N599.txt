@@ -1,0 +1,9 @@
+Cliente: Ezequiel
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: 9 de Julio 373
+Total: $750
+N° Pedido: 599
+-----------------------------------------
+

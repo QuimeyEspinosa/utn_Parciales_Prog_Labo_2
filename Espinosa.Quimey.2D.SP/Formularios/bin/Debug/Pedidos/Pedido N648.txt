@@ -1,0 +1,12 @@
+Cliente: Sergio
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 2958
+Total: $1575
+N° Pedido: 648
+-----------------------------------------
+

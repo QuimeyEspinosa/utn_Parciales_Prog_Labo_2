@@ -1,0 +1,10 @@
+Cliente: Quimey
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Córdoba 3337
+Total: $1275
+N° Pedido: 690
+-----------------------------------------
+

@@ -1,0 +1,10 @@
+Cliente: Gonzalo
+       ID:1 | Hamburguesa Simple $250
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Av. Alvear 2125
+Total: $1150
+N° Pedido: 526
+-----------------------------------------
+

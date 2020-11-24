@@ -1,0 +1,8 @@
+Cliente: Alejo
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 3197
+Total: $375
+N° Pedido: 193
+-----------------------------------------
+

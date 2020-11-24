@@ -1,0 +1,11 @@
+Cliente: Federico
+       ID:3 | Hamburguesa Triple $450
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 213
+Total: $1325
+N° Pedido: 343
+-----------------------------------------
+

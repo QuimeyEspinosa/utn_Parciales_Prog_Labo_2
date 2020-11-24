@@ -1,0 +1,8 @@
+Cliente: Joaquin
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 1057
+Total: $250
+N° Pedido: 651
+-----------------------------------------
+

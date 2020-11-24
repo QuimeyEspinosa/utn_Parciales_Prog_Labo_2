@@ -1,0 +1,8 @@
+Cliente: Elias
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Corrientes 329
+Total: $375
+N° Pedido: 610
+-----------------------------------------
+

@@ -1,0 +1,10 @@
+Cliente: Lucas
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Peatonal Florida 1401
+Total: $1200
+N° Pedido: 614
+-----------------------------------------
+

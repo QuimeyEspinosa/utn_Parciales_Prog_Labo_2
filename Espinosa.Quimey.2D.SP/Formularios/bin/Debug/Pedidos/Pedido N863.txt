@@ -1,0 +1,9 @@
+Cliente: Abril
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 3169
+Total: $625
+N° Pedido: 863
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Sergio
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 1659
+Total: $375
+N° Pedido: 511
+-----------------------------------------
+

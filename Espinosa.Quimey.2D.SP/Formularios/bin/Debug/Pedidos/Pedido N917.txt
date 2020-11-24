@@ -1,0 +1,8 @@
+Cliente: Santiago
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Libertador 3387
+Total: $375
+N° Pedido: 917
+-----------------------------------------
+

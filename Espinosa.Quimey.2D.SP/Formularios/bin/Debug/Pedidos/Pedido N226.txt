@@ -1,0 +1,11 @@
+Cliente: Elias
+       ID:1 | Hamburguesa Simple $250
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Av. Córdoba 113
+Total: $1375
+N° Pedido: 226
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Sergio
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Corrientes 823
+Total: $250
+N° Pedido: 918
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Nehuen
+       ID:2 | Hamburguesa Doble $375
+Delivery: Si
+Direccion: Peatonal Florida 2836
+Total: $375
+N° Pedido: 904
+-----------------------------------------
+

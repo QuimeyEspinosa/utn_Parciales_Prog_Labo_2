@@ -1,0 +1,8 @@
+Cliente: Joaquin
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Peatonal Florida 1844
+Total: $250
+N° Pedido: 513
+-----------------------------------------
+

@@ -1,0 +1,8 @@
+Cliente: Quimey
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 3193
+Total: $450
+N° Pedido: 923
+-----------------------------------------
+

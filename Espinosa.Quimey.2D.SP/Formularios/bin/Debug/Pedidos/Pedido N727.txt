@@ -1,0 +1,11 @@
+Cliente: Alejo
+       ID:3 | Hamburguesa Triple $450
+       ID:3 | Hamburguesa Triple $450
+       ID:2 | Hamburguesa Doble $375
+       ID:3 | Hamburguesa Triple $450
+Delivery: Si
+Direccion: Corrientes 237
+Total: $1725
+N° Pedido: 727
+-----------------------------------------
+
