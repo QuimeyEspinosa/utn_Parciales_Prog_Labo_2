@@ -10,7 +10,7 @@ namespace TestUnitarios
     public class TestUnitarioSP
     {
         /// <summary>
-        /// Valida que lance la excepción de NuevaVentaException
+        /// Valida que lance la excepción de NuevoPedidoException
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(NuevoPedidoException))]

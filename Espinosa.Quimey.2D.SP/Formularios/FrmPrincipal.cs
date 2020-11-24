@@ -19,6 +19,7 @@ namespace Formularios
     public partial class FrmPrincipal : Form
     {
         public event MiApp IniciarApp;
+        Thread thPrincipal;
         Thread thPreparador;
         Thread thDelivery;
 
@@ -39,7 +40,8 @@ namespace Formularios
         {
             try
             {
-                IniciarApp.Invoke();
+                thPrincipal = new Thread(IniciarApp.Invoke);
+                thPrincipal.Start();
                 rtxt_EnPreparacion.Text = string.Empty;
                 foreach (Pedido item in Comercio.PedidosEnPreparacion)
                 {
@@ -109,8 +111,7 @@ namespace Formularios
                 //preparo constantemente
                 while (true)
                 {
-                    Thread.Sleep(RandomElement.TiempoPreparacionRandom());
-
+                    Thread.Sleep(1000);
                     if (Comercio.PedidosEnPreparacion.Count > 0)
                     {
                         Comercio.Preparar();
@@ -138,6 +139,7 @@ namespace Formularios
                             });
                         }
                     }
+                    Thread.Sleep(RandomElement.TiempoPreparacionRandom());
                 }
             }
             catch (InvalidOperationException ex)
@@ -171,6 +173,7 @@ namespace Formularios
             {
                 while (true)
                 {                   
+                    Thread.Sleep(RandomElement.TiempoEntregaRandom());
                     if (Comercio.PedidosListosParaRetirar.Count > 0)
                     {
                         Comercio.Entregar();
@@ -198,7 +201,6 @@ namespace Formularios
                             });
                         }
                     }
-                    Thread.Sleep(RandomElement.TiempoEntregaRandom());
                 }
             }
             catch (InvalidOperationException ex)
@@ -229,6 +231,7 @@ namespace Formularios
         {
             thPreparador.Abort();
             thDelivery.Abort();
+            thPrincipal.Abort();
         }
 
 

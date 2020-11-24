@@ -72,7 +72,7 @@ namespace Entidades
         /// <returns></returns>
         public static int TiempoPreparacionRandom()
         {
-            return nRand.Next(4000, 7000);
+            return nRand.Next(3000, 7000);
         }
 
         #endregion

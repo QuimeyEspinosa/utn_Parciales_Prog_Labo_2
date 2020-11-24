@@ -1,0 +1,9 @@
+Cliente: Ezequiel
+       ID:1 | Hamburguesa Simple $250
+       ID:1 | Hamburguesa Simple $250
+Delivery: Si
+Direccion: Av. Córdoba 1012
+Total: $500
+N° Pedido: 983
+-----------------------------------------
+
